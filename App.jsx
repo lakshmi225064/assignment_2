@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar.jsx";
-import Home from "./pages/Home.jsx";
-import EmployeeForm from "./pages/EmployeeForm.jsx";
+import Navbar from "./Navbar.jsx";
+import Home from "./Home.jsx";
+import EmployeeForm from "./EmployeeForm.jsx";
 
 function App() {
   return (
